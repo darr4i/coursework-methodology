@@ -1,0 +1,16 @@
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\bin\Debug\net8.0-windows\kursova.exe
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\bin\Debug\net8.0-windows\kursova.deps.json
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\bin\Debug\net8.0-windows\kursova.runtimeconfig.json
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\bin\Debug\net8.0-windows\kursova.dll
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\bin\Debug\net8.0-windows\kursova.pdb
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.Form1.resources
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.GenerateResource.cache
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfoInputs.cache
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfo.cs
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.CoreCompileInputs.cache
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.dll
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\refint\kursova.dll
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.pdb
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\kursova.genruntimeconfig.cache
+C:\Users\Waflya\Desktop\kurs\kursova\kursova\obj\Debug\net8.0-windows\ref\kursova.dll

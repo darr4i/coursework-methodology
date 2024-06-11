@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|solutionrelative:kursova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|c:\\users\\waflya\\desktop\\kurs\\kursova\\kursova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|solutionrelative:kursova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|solutionrelative:kursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|solutionrelative:kursova\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E4B6E4C0-3F93-4FAE-909B-6B4B7FA9D3F4}|kursova\\kursova.csproj|solutionrelative:kursova\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.cs",
+              "RelativeDocumentMoniker": "kursova\\Form1.cs",
+              "ToolTip": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.cs",
+              "RelativeToolTip": "kursova\\Form1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwFMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:38:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "kursova\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.Designer.cs",
+              "RelativeToolTip": "kursova\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:34:41.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Program.cs",
+              "RelativeDocumentMoniker": "kursova\\Program.cs",
+              "ToolTip": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Program.cs",
+              "RelativeToolTip": "kursova\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:28:10.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.resx",
+              "RelativeDocumentMoniker": "kursova\\Form1.resx",
+              "ToolTip": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.resx",
+              "RelativeToolTip": "kursova\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-07T18:34:16.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.cs",
+              "RelativeDocumentMoniker": "kursova\\Form1.cs",
+              "ToolTip": "C:\\Users\\Waflya\\Desktop\\kurs\\kursova\\kursova\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "kursova\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:55:29.448Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

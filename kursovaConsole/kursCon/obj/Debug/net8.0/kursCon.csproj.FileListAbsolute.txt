@@ -1,0 +1,14 @@
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\bin\Debug\net8.0\kursCon.exe
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\bin\Debug\net8.0\kursCon.deps.json
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\bin\Debug\net8.0\kursCon.runtimeconfig.json
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\bin\Debug\net8.0\kursCon.dll
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\bin\Debug\net8.0\kursCon.pdb
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.AssemblyInfoInputs.cache
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.AssemblyInfo.cs
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.csproj.CoreCompileInputs.cache
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.dll
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\refint\kursCon.dll
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.pdb
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\kursCon.genruntimeconfig.cache
+C:\Users\Waflya\Desktop\kurs\kursCon\kursCon\obj\Debug\net8.0\ref\kursCon.dll
